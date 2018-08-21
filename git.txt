@@ -1,0 +1,2 @@
+Comando para clonar repositório 
+git clone "endereço do repositório"
